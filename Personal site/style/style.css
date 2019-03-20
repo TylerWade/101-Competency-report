@@ -1,0 +1,148 @@
+body{
+	background-color:#984b43;
+	margin: 0;
+	font-family: georgia;
+}
+#family{
+	border: 15px solid #984b43;
+	border-radius: 50%;
+}
+.header{
+	text-align: center;
+	background-color: #233237;
+	color: #eac67a;
+}
+
+h1{
+	text-align: center;
+	margin: 0;
+}
+h2{
+	text-align: center;
+	margin: 0;
+}
+
+#menu{
+	background-color: #233237;
+	font-size: 30px;
+	text-align: center;
+}
+
+#menu li {
+	display: inline;
+	list-style-type: none;
+	padding: 20px;
+}
+
+#menu a{
+	color: #eac67a;
+	text-decoration: none;
+	padding-bottom: 20px;
+}
+
+#menu a:hover{
+		background-color: #984b43;
+}
+
+h4{
+	text-align: center;
+	margin:0px;
+	padding: 0px;
+	text-decoration: none;
+}
+
+.find a{
+	color: #252839;
+	text-decoration: none;
+}
+.find a:hover{
+	color: #eac67a;
+}
+
+.container{
+	font-family: georgia;
+}
+
+p{
+	text-indent: 30px;
+	text-align: justify;
+	margin-left: 20px;
+	margin-right: 20px;
+	font-size: 18px;
+	padding-bottom: 25px;
+}
+
+hr{
+	margin: 5px 80% 5px 0%;
+}
+
+h3{
+	font-family: Georgia;
+	font-size: 25px;
+}
+
+.History{
+	background-color: #233237;
+	color: #eac67a;
+	padding-bottom: 5px;
+	margin-right: 10%;
+}
+
+.History:hover{
+	background-color: #18121e;
+}
+
+.Organization{
+	background-color: #233237;
+	color: #eac67a;
+	padding-bottom: 5px;
+	margin-right: 10%;
+}
+
+.Organization:hover{
+	background-color: #18121e;
+}
+
+.Legacy{
+	background-color: #233237;
+	color: #eac67a;
+	padding-bottom: 5px;
+	margin-right: 10%;
+}
+
+.Legacy:hover{
+	background-color: #18121e;
+}
+
+
+.List{
+	background-color:#233237;
+	color: #eac67a;
+	padding-bottom: 5px;
+	margin-right: 10%;
+}
+
+.List:hover{
+	background-color: #18121e;
+}
+
+.Places{
+	background-color:#233237;
+	color: #eac67a;
+	margin-right: 10%;
+}
+li{
+	padding-bottom: 5px;
+}
+#dl{
+	font-size: 20px;
+}
+.Places:hover{
+	background-color: #18121e;
+}
+.heading{
+	background-color: #233237;
+	color: #eac67a;
+	padding-bottom: 5px;
+	margin-right: 10%;
+}
